@@ -1,0 +1,67 @@
+body{
+text-align: center;
+background: rgb(223,126,52);
+background: linear-gradient(90deg, rgba(223,126,52,1) 26%, rgba(252,70,107,1) 100%);
+}
+
+img{
+    margin: 20px;
+}
+
+#cny{
+    height: 250px;
+    width: 350px;
+}
+
+#nyg{
+    height: 500px;
+    height: 500px;
+}
+
+
+    
+.btn-grad {background-image: linear-gradient(to right, #00bf8f 0%, #001510  51%, #00bf8f  100%)}
+    .btn-grad {
+       margin: 10px;
+       padding: 15px 45px;
+       text-align: center;
+       text-transform: uppercase;
+       transition: 0.5s;
+       background-size: 200% auto;
+       color: white;            
+       box-shadow: 0 0 20px #eee;
+       border-radius: 10px;
+       display: block;
+     }
+
+     .btn-grad:hover {
+       background-position: right center; 
+       color: #fff;
+       text-decoration: none;
+     }
+    
+
+     #myNavbar{
+         background-color:#8a7813de;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+     }
+
+     h4{
+         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         color: teal;
+         font-weight: 600;
+     }
+
+     
+
+     p{
+         color: rgb(20, 12, 66);
+         font-weight: 500;
+         
+     }
+
+     img{
+
+         border: 2px dashed darkblue;
+     }
